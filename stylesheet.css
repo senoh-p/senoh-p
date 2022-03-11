@@ -46,11 +46,11 @@
     position :fixed;
     top: 0;
     z-index: 10;
+    text-align: center;
   }
   
   .logo {
     height: 150px;
-    text-align: center;
   }
   
   
