@@ -50,8 +50,9 @@
     text-align: center;
   }
   
- 
-  
+  .logo {
+    margin: auto;
+  }
   
   .heading {
     padding-top: 80px;
